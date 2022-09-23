@@ -1,4 +1,4 @@
-<h1 align="center">C216-Lab-REST</h1>
+<h1 align="center">Lab REST com SpringBoot</h1>
 <p align="center">Repositório destinado aos exercícios realizados da disciplina de C216 - Sistemas Distribuídos</p>
 
 <div align="center">
