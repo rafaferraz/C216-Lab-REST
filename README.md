@@ -3,9 +3,10 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white)
 
 </div>
 
